@@ -5,7 +5,6 @@ class User(models.Model):
     id = models.CharField(max_length=200,primary_key=True)
     real_name = models.CharField(max_length=200)
     tz = models.CharField(max_length=200)
-
     def __str__(self):
         return self.real_name
 
