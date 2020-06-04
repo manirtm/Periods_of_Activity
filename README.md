@@ -10,7 +10,7 @@ link(https://drive.google.com/open?id=1xZa3UoXZ3uj2j0Q7653iBp1NrT0gKj0Y)
 
 ## Running the Project Locally
 
-First, clone the repository to your local machine:
+#### First, clone the repository to your local machine:
 ---
 https://github.com/manirtm/Periods_of_Activity.git
 ---
