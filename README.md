@@ -9,7 +9,8 @@
 
 ## It runs under following requirements:
 
-* Django 3.0.7
-* Python 3.6.8
+* django 3.0.7
+* djangorestframework 3.11.0
+* python 3.6.8
 * psycopg2 2.8.5
 
