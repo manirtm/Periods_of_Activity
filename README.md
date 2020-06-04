@@ -7,14 +7,9 @@
 * Design an API to serve that data in the json format as given in
 [link](https://drive.google.com/open?id=1xZa3UoXZ3uj2j0Q7653iBp1NrT0gKj0Y)
 
-## It runs under officially Django supported versions:
+## It runs under following requirements:
 
 * Django 3.0.7
 * Python 3.6.8
+* psycopg2 2.8.5
 
-## Running the Project Locally
-
-#### First, clone the repository to your local machine:
----
-https://github.com/manirtm/Periods_of_Activity.git
----
